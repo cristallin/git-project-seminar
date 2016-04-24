@@ -7,6 +7,7 @@ product = {
 		console.log("This is a Test 2" + productContainer);
 		console.log("This is a Test 3" + productContainer);
 		console.log("This is a Test 5" + productContainer);
+		console.log("This is a Test 6" + productContainer);
 	}
 };
 // Initialize product init method
