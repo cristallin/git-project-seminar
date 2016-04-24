@@ -4,6 +4,9 @@ product = {
 	init : function() {
 		var productContainer = jQuery('#productContainer'); 
 		console.log("This is a Test" + productContainer);
+		console.log("This is a Test 2" + productContainer);
+		console.log("This is a Test 3" + productContainer);
+		console.log("This is a Test 5" + productContainer);
 	}
 };
 // Initialize product init method
